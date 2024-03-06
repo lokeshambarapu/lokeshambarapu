@@ -3,7 +3,7 @@
 
 # 💫 About Me:
 
-<img align="right" alt="GIF" src="https://github.com/Raviteja77/raviteja77/blob/main/coding.gif?raw=true" width="408" height="318" />
+<img align="right" alt="GIF" src="https://github.com/lokeshambarapu/lokeshambarapu/blob/main/coding.gif?raw=true" width="408" height="318" />
 
 I'm Lokesh Ambarapu, a graduate student pursuing a Master's in Computer Science at Clark University in Worcester. With a background in software engineering and over 5 years of experience in the industry, I've developed a strong foundation in various programming languages such as Java, Python, and SQL, along with proficiency in frameworks like React, Angular, and Spring Boot.
 
